@@ -7,12 +7,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
+title: SMART Lab
+subtitle: "Collaboratively understanding social media"
+email: smartlab@ohio.edu
 name: Ben Centra
 description: > 
-  A simple yet classy theme for your Jekyll website or blog.
+  Social Media Analytics and Research Team Lab
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://ohiouniveritysmartlab.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
@@ -34,7 +34,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: bencentra
+disqus_shortname: ousmartlab
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -65,8 +65,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: OUSMARTLab
+    url: https://twitter.com/OUSMARTLab
     desc: Follow me on Twitter
     share: true
 
@@ -79,15 +79,15 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: OhioUniversitySMARTLab
+    url: https://github.com/OhioUniversitySMARTLab
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: SMARTLab
+    url: 
     desc: Connect with me on LinkedIn
     share: true
 

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The Start"
+date:   2015-10-05 08:43:59
+author: Ricky Chilcott
+categories: SMARTLab Start
+---
+
+We're building this lab from nothing. We have a few ideas, but are open to learning from you. What do you want to see?
