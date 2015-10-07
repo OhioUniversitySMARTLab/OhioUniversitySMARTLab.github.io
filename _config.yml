@@ -10,8 +10,8 @@ exclude:
 title: SMART Lab
 subtitle: "Collaboratively understanding social media"
 email: smartlab@ohio.edu
-name: Ben Centra
 description: > 
+name: Ohio University Smart Lab
   Social Media Analytics and Research Team Lab
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://ohiouniveritysmartlab.github.io" # the base hostname & protocol for your site
