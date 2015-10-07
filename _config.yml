@@ -66,14 +66,14 @@ social:
   - name: Twitter
     icon: twitter
     username: OUSMARTLab
-    url: https://twitter.com/OUSMARTLab
+    url: https://twitter.com/ScrippsSMARTLab
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
-    url:
+    username: ScrippsSMARTLab
+    url: https://facebook.com/ScrippsSMARTLab
     desc: Friend me on Facebook
     share: true
 
