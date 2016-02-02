@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+The Social Media Analytics Research Team (SMART) has been established as an interdisciplinary laboratory to foster and promote cutting-edge research. The SMART Lab is based in the Scripps College of Communication at Ohio University. Founded in 2015, the aim of the SMART Lab is to further enhance our understanding of online user behavior in online communities, and predict future outcomes. 
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Rapid technological change has led to the generation of vast amounts of data that holds immense value and has the potential to provide meaningful insights. When captured, understood and visualized, such data can help solve problems being faced by organizations and businesses and enable them to better serve their communities, enhance their brands, and build stronger relationships. Social media analytics research is exciting and applies in areas such as Health Communication, Politics, Business, Psychology, Computer Science, and Journalism. 
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+Human behavior in online communities can be better understood through a range of analytics tools by extracting hidden patterns and information. We use both qualitative and quantitative research methods to provide solutions for complex problems facing organizations and businesses. 
