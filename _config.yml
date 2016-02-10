@@ -16,13 +16,16 @@ description: >
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://ohiouniversitysmartlab.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
-logo: "assets/icons/SMARTLab.png"
+logo: "assets/ScrippsCollege _SMARTLab.png"
 
 
 # Build settings
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
+
+gems:
+  - jekyll-paginate
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
@@ -72,7 +75,7 @@ social:
     share: true
 
   - name: Facebook
-    icon: facebook
+    icon: facebook6
     username: SMARTlabOhioU
     url: https://www.facebook.com/SMARTlabOhioU
     desc: Follow us on Facebook
