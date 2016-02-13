@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Social Media Analytics Research Colloquium"
-date:   2016-02-02 10:06:59
+date:   2016-02-02
 author: Ricky Chilcott
 categories: SMARTLab Presentation
 ---
@@ -12,6 +12,6 @@ Social media analytics research is interdisciplinary and builds on the unique st
 
 
 Dr. Laeeq Khan [@drlaeeqkhan](https://twitter.com/drlaeeqkhan)
-School of Media Arts & Studies Friday, Feb. 5th 11:50am - RTV 255 
+School of Media Arts & Studies Friday, Feb. 5th 11:50am - RTV 255
 
 [See more details](https://www.facebook.com/SMARTlabOhioU/photos/a.917520895002463.1073741827.917519088335977/939007142853838/?type=3&theater)
