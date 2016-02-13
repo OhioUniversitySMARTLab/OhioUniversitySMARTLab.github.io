@@ -1,11 +1,3 @@
-# External gems
-gems:
-  - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
-
-exclude:
-  - "/vendor/"
-
 # Site settings
 title: SMART Lab
 subtitle: "Collaboratively understanding social media"
@@ -13,10 +5,9 @@ email: smartlab@ohio.edu
 name: Ohio University Smart Lab
 description: >
   Social Media Analytics and Research Team Lab
-baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://ohiouniversitysmartlab.github.io" # the base hostname & protocol for your site
-cover: "assets/header_image.jpg"
-logo: "assets/ScrippsCollege _SMARTLab.png"
+cover: "/assets/header_image.jpg"
+logo: "/assets/ScrippsCollege _SMARTLab.png"
 
 
 # Build settings
@@ -26,6 +17,7 @@ paginate_path: "/page:num/"
 
 gems:
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
