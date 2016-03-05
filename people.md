@@ -23,16 +23,16 @@ permalink: /team/
 * Drew McDaniel
 
 
-**Information Technology Associates**:
+**Information Technology & Media Associates**:
 
-* Ricky Chilcott
+* Ricky Chilcott&nbsp; &nbsp;[Information Technology]
+* Megan Lewis &nbsp;[Social Media] &nbsp; &nbsp;&nbsp;
 
 
-**Graduate Research Scholars**
+**PhD Students**
 
 * Hailey Sweitzer
+* Brandon Sweitzer
 
 
-**Undergraduate Research Assistants**
-
-**Outside Faculty Collaborators:**
+&nbsp;
