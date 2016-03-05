@@ -1,22 +1,37 @@
 ---
 layout: page
-title: People
-permalink: /people/
+title: Team
+permalink: /team/
 ---
 
-**Faculty:**
 
-* Dr. Laeeq Khan [Director, SMART Lab]
-* Ricky Chilcott
+**Director:**
+
+* Dr. Laeeq Khan&nbsp;
+
+
+**Research Collaborators:&nbsp;**
+
 * Scott Titsworth
-* Drew McDaniel
-* Karen Riggs
 * Greg Newton
 * Roger Cooper
+
+
+**Research Associates**:
+
+* Karen Riggs
+* Drew McDaniel
+
+
+**Information Technology Associates**:
+
+* Ricky Chilcott
+
 
 **Graduate Research Scholars**
 
 * Hailey Sweitzer
+
 
 **Undergraduate Research Assistants**
 
