@@ -12,15 +12,15 @@ permalink: /team/
 
 **Research Collaborators:&nbsp;**
 
-* Scott Titsworth
-* Greg Newton
-* Roger Cooper
+* Dr. Scott Titsworth
+* Dr. Greg Newton
+* Dr. Roger Cooper
 
 
 **Research Associates**:
 
-* Karen Riggs
-* Drew McDaniel
+* Dr. Karen Riggs
+* Dr. Drew McDaniel
 
 
 **Information Technology & Media Associates**:
