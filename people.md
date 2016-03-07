@@ -5,22 +5,19 @@ permalink: /team/
 ---
 
 
-**Director:**
-
-* Dr. Laeeq Khan&nbsp;
-
-
 **Research Collaborators:&nbsp;**
 
+* Dr. Laeeq Khan &nbsp;[Director, SMART Lab]
 * Dr. Scott Titsworth
 * Dr. Greg Newton
+* Dr. Stephanie Tikkanen
 
 
 **Research Associates**:
 
-* Dr. Karen Riggs
 * Dr. Drew McDaniel
 * Dr. Roger Cooper
+* Dr. Karen Riggs
 
 
 **Information Technology & Media Associates**:
