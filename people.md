@@ -18,6 +18,7 @@ permalink: /team/
 * Dr. Drew McDaniel
 * Dr. Roger Cooper
 * Dr. Karen Riggs
+* Dr. Wu Alan&nbsp;
 
 
 **Information Technology & Media Associates**:
