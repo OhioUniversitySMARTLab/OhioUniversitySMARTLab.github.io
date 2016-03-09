@@ -33,4 +33,15 @@ permalink: /team/
 * Brandon Sweitzer
 
 
-&nbsp;
+&lt;table style="width:100%"&gt;
+&nbsp; &lt;tr&gt;
+&nbsp; &nbsp; &lt;td&gt;Jill&lt;/td&gt;
+&nbsp; &nbsp; &lt;td&gt;Smith&lt;/td&gt;&nbsp;
+&nbsp; &nbsp; &lt;td&gt;50&lt;/td&gt;
+&nbsp; &lt;/tr&gt;
+&nbsp; &lt;tr&gt;
+&nbsp; &nbsp; &lt;td&gt;Eve&lt;/td&gt;
+&nbsp; &nbsp; &lt;td&gt;Jackson&lt;/td&gt;&nbsp;
+&nbsp; &nbsp; &lt;td&gt;94&lt;/td&gt;
+&nbsp; &lt;/tr&gt;
+&lt;/table&gt;
