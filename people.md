@@ -32,7 +32,7 @@ permalink: /team/
 &nbsp;
 
 * Dr. Wu Alan&nbsp;
-  ![Wu Alan](/uploads/versions/wualan---x0-0-108-101-108-101x---.jpg)Dr. Min Lun Wu &nbsp;holds a Ph.D. in Educational Psychology and Educational Technology from Michigan State University.&nbsp; Dr. Wu teaches undergraduate courses in technological applications in education and graduate courses with an emphasis on instructional leadership and professional development, and the design, research, and implementation of digital game-based learning (DGBL).&nbsp; His main research areas encompass online teaching and learning, technology education in teacher preparation, educational game design, computational thinking skills, computer-assisted language learning (CALL), extensive reading methodology, and motivations in gameplay.
+  Dr. Min Lun Wu &nbsp;holds a Ph.D. in Educational Psychology and Educational Technology from Michigan State University.&nbsp; Dr. Wu teaches undergraduate courses in technological applications in education and graduate courses with an emphasis on instructional leadership and professional development, and the design, research, and implementation of digital game-based learning (DGBL).&nbsp; His main research areas encompass online teaching and learning, technology education in teacher preparation, educational game design, computational thinking skills, computer-assisted language learning (CALL), extensive reading methodology, and motivations in gameplay.
 
 
 **Information Technology & Media Associates**:
