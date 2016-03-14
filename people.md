@@ -13,6 +13,12 @@ permalink: /team/
 * Dr. Stephanie Tikkanen
 
 
+&nbsp;
+
+* Dr. Wolfgang Suetzl
+  Wolfgang Suetzl (also spelled S&uuml;tzl) is media theorist, philosopher, and linguist. He is currently a Visiting Assistant Professor at Ohio University’ School of Media Arts and Studies, and previously researched media activism at the University of Innsbruck, Austria. His research interests include media and social change, digital sharing, mass communication theory, media history, and media aesthetics. Website: http://wolfgangsuetzl.net
+
+
 **Research Associates**:
 
 * Dr. Drew McDaniel
