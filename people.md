@@ -7,16 +7,29 @@ permalink: /team/
 
 **Research Collaborators:&nbsp;**
 
-* Dr. Laeeq Khan &nbsp;[Director, SMART Lab]
-* Dr. Scott Titsworth
-* Dr. Greg Newton
-* Dr. Stephanie Tikkanen
+* **Dr. Laeeq Khan**&nbsp;[Director, SMART Lab]​
 
 
 &nbsp;
 
-* Dr. Wolfgang Suetzl
-  Wolfgang Suetzl (also spelled S&uuml;tzl) is media theorist, philosopher, and linguist. He is currently a Visiting Assistant Professor at Ohio University’ School of Media Arts and Studies, and previously researched media activism at the University of Innsbruck, Austria. His research interests include media and social change, digital sharing, mass communication theory, media history, and media aesthetics. Website: http://wolfgangsuetzl.net
+* **Dr. Greg Newton**
+
+
+&nbsp;
+
+* **Dr. Wolfgang Suetzl**
+
+
+Wolfgang Suetzl (also spelled S&uuml;tzl) is media theorist, philosopher, and linguist. He is currently a Visiting Assistant Professor at Ohio University’ School of Media Arts and Studies, and previously researched media activism at the University of Innsbruck, Austria. His research interests include media and social change, digital sharing, mass communication theory, media history, and media aesthetics. Website: http://wolfgangsuetzl.net
+
+* **Dr. Stephanie Tikkanen**
+
+
+​****Dr. Tikkanen’s research program focuses on the growing role of new media (e.g., social networking sites, mobile phones) in interpersonal relationships. Specifically, she takes a theoretical and quantitative approach to understanding the way in which channel and structural features interact with individual and relational motivations to affect interpersonal processes across relational types, including families, romantic partners, and friends. Her research primarily focuses on how structural features (e.g., anonymity, asynchronicity) impact the provision and receipt of social support. &nbsp;Her work has been published in outlets such as Journal of Communication, Journal of Language and Social Psychology, and Communication Research Reports, as well as competitive papers presented at national conferences. She also values her role as a teacher-scholar, equally emphasizing both teaching and research.&nbsp;
+
+**Dr. Scott Titsworth**
+
+* &nbsp;
 
 
 **Research Associates**:
