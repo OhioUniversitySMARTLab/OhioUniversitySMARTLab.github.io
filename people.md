@@ -74,3 +74,8 @@ Dr. Min Lun Wu &nbsp;holds a Ph.D. in Educational Psychology and Educational Tec
 
 
 &nbsp;
+
+* **Xiaoyu “Jamie” Wu**
+
+
+Xiaoyu “Jamie” Wu is a first-year Ph.D. student in the School of Media Arts & Studies. Her research interests are in the areas of social media, social media analytics, social media marketing, media in Chinese societies, and gender, sexuality and media. She has a M.A. in media studies from Ohio University and a B.A. in mass communication from Missouri Southern State University. Xiaoyu also has experience with journalism, photojournalism and radio & TV production in the region of southwest Missouri.
