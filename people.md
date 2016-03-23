@@ -10,7 +10,9 @@ permalink: /team/
 * **Dr. Laeeq Khan**&nbsp;[Director, SMART Lab]​
 
 
-&nbsp;
+Dr. Khan is an Assistant Professor in the School of Media Arts & Studies at Ohio University. He is also serving as the Director of the SMART Lab which he is establishing in the Scripps College of Communication at Ohio University.&nbsp;
+
+He received his Ph.D. in Media and Information Studies from Michigan State University. Dr. Khan has years of teaching, research, and consulting experience. His research investigates new media effects on society in general and on organizations and businesses in particular. More specifically, his work focuses on user engagement in social media. Using data analytics he studies online participation and and how content affects attitudes, opinions, and behaviors.&nbsp;
 
 * **Dr. Greg Newton**
 
@@ -25,7 +27,7 @@ Wolfgang Suetzl (also spelled S&uuml;tzl) is media theorist, philosopher, and li
 * **Dr. Stephanie Tikkanen**
 
 
-​*\*\**Dr. Tikkanen’s research program focuses on the growing role of new media (e.g., social networking sites, mobile phones) in interpersonal relationships. Specifically, she takes a theoretical and quantitative approach to understanding the way in which channel and structural features interact with individual and relational motivations to affect interpersonal processes across relational types, including families, romantic partners, and friends. Her research primarily focuses on how structural features (e.g., anonymity, asynchronicity) impact the provision and receipt of social support. &nbsp;Her work has been published in outlets such as Journal of Communication, Journal of Language and Social Psychology, and Communication Research Reports, as well as competitive papers presented at national conferences. She also values her role as a teacher-scholar, equally emphasizing both teaching and research.&nbsp;
+​Dr. Tikkanen’s research program focuses on the growing role of new media (e.g., social networking sites, mobile phones) in interpersonal relationships. Specifically, she takes a theoretical and quantitative approach to understanding the way in which channel and structural features interact with individual and relational motivations to affect interpersonal processes across relational types, including families, romantic partners, and friends. Her research primarily focuses on how structural features (e.g., anonymity, asynchronicity) impact the provision and receipt of social support. &nbsp;Her work has been published in outlets such as Journal of Communication, Journal of Language and Social Psychology, and Communication Research Reports, as well as competitive papers presented at national conferences. She also values her role as a teacher-scholar, equally emphasizing both teaching and research.&nbsp;
 
 **Dr. Scott Titsworth**
 
